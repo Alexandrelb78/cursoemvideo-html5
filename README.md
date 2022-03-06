@@ -1,2 +1,2 @@
 # cursoemvideo-html5
- Material estudo
+ material curso
